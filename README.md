@@ -18,7 +18,6 @@ This website is a exercise part of the 100 days of Code Challenge. This page is 
 <img align="left" alt="Git" width="24px" src="https://raw.githubusercontent.com/NOMADE55/nomade55/master/assets/git.svg">
 
 <br>
----
 
 ## 💻 Authors
 
